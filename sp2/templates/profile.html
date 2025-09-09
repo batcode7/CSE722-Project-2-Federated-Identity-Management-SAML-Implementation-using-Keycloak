@@ -1,0 +1,6 @@
+<!doctype html>
+<h3>Signed in</h3>
+<p>NameID: {{ user.nameid }}</p>
+<pre>{{ user.attrs | tojson(indent=2) }}</pre>
+<p><a href="/photo">Open protected photo</a></p>
+<p><a href="/logout?idp=a">Logout via IdP-A</a> | <a href="/logout?idp=b">Logout via IdP-B</a></p>

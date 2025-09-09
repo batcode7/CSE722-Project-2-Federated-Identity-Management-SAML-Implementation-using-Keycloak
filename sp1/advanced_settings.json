@@ -1,0 +1,8 @@
+{
+  "security": {
+    "authnRequestsSigned": false,
+    "wantAssertionsSigned": true,
+    "wantMessagesSigned": false,
+    "requestedAuthnContext": false
+  }
+}
