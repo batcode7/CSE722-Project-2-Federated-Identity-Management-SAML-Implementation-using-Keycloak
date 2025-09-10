@@ -1,9 +1,9 @@
 # How to Run:
 
-1) Once you download the files from git repo: 
+1) Once you download the files from git repository.
 2) Make sure you create a folder called “project”
 3) Inside that, you create another folder called “saml-local”
-4) Inside “saml-local” keep the “keycloak”, “sp1” and ‘“sp2” folders. Afterwards, in three different cmd run the following commands and keep all the cmds alive. 
+4) Inside “saml-local” keep the “keycloak”, “sp1” and “sp2” folders. Afterwards, in three different cmd run the following commands and keep all the cmds alive. 
 
 ## Keycloak:
 ```bat
